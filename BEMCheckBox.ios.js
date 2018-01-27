@@ -4,8 +4,8 @@
  */
 'use strict';
 import React, { Component } from 'react';
-import { StyleSheet, requireNativeComponent } from 'react-native';
 import PropTypes from 'prop-types';
+import { StyleSheet, requireNativeComponent } from 'react-native';
 
 const RNBEMCheckBox = requireNativeComponent('RNBEMCheckBox', null);
 
